@@ -48,6 +48,10 @@ function App() {
                 />
                 <div className="article-meta">
                   <div>The Caravan | 2 Weeks Ago</div>
+                  {/* <div
+                    className="div"
+                    dangerouslySetInnerHTML={{ __html: article.art_data }}
+                  ></div> */}
                   <p>
                     Elon Musk is known to have a not-so-conventional view of
                     things. It comes as no surprise that the Tesla CEO isn’t a
